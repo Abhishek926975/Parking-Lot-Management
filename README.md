@@ -1,5 +1,4 @@
 # Parking-Lot-Management
-Parking Lot Management System in Java – A console-based application to manage parking operations. Features include vehicle entry/exit, slot allocation, fee calculation, and real-time status tracking. Built using Java OOP concepts, making it ideal for students and beginners learning Java.
 🚗 Parking Lot Management System (Java)
 
 A console-based Parking Lot Management System built in Java to simulate real-world parking operations. This project demonstrates Object-Oriented Programming (OOP) concepts such as classes, objects, inheritance, and encapsulation.

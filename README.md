@@ -3,7 +3,7 @@
 
 A console-based Parking Lot Management System built in Java to simulate real-world parking operations. This project demonstrates Object-Oriented Programming (OOP) concepts such as classes, objects, inheritance, and encapsulation.
 
-✨ Features
+#✨ Features
 
 🚘 Vehicle Entry & Exit – Register vehicles entering and exiting the parking lot
 
@@ -15,7 +15,7 @@ A console-based Parking Lot Management System built in Java to simulate real-wor
 
 🔑 Scalable Design – Can be extended for multi-floor parking or advanced features
 
-📂 Project Structure
+#📂 Project Structure
 ParkingLotManagement/
 ├── src/
 │   ├── Main.java
@@ -25,7 +25,7 @@ ParkingLotManagement/
 │   └── Ticket.java
 └── README.md
 
-🚀 How to Run
+#🚀 How to Run
 
 Clone the repository:
 
@@ -42,7 +42,7 @@ Run the program:
 
 java src.Main
 
-🎯 Learning Objectives
+#🎯 Learning Objectives
 
 Apply Java OOP concepts to a real-world project
 
@@ -52,7 +52,7 @@ Learn collection frameworks (if used for slots/vehicles)
 
 Practice designing a scalable application architecture
 
-📌 Future Improvements
+#📌 Future Improvements
 
 Add GUI for better user experience
 
